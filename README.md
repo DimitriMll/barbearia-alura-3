@@ -1,7 +1,9 @@
-# barbearia-alura-3
+# ✂️ Barbearia Alura 3.0
 
-Terceiro site produzido no curso de HTML e CSS da Alura
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/DimitriMll/alura-oracle-one/blob/main/LICENSE)
 
-[https://barbeariaalura3dmuller.netlify.app/](https://barbeariaalura3dmuller.netlify.app/)
+## 🌐 Terceiro site produzido no curso de HTML e CSS da Alura
+
+### 📜 [https://barbeariaalura3dmuller.netlify.app/](https://barbeariaalura3dmuller.netlify.app/)
 
 ![image](https://github.com/DimitriMll/barbearia-alura-3/blob/main/barbearia3.PNG)
